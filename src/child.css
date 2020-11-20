@@ -1,0 +1,23 @@
+.mycard{
+    width: 295px;
+    outline: 1px solid lightgray;
+    display: inline-block;
+    margin: 10px;
+}
+
+.mycard img{
+    height: 120px;
+    display: block;
+    margin: auto;
+}
+
+h4{
+    padding: 10px;
+}
+.title{
+  padding: 0px 10px;
+}
+.loc{
+  padding: 0px 10px;
+  border-top: lightgray 1px solid;
+}
